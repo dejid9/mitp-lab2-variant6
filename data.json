@@ -1,0 +1,40 @@
+{
+    "lab_number": 2,
+    "variant": 6,
+    "student": {
+        "name": "Вафин Денис Наильевич",
+        "group": "221141",
+        "department": "МИТП"
+    },
+    "completed_tasks": {
+        "medium": [
+            {
+                "id": 2,
+                "name": "Сумма нечётных чисел до N",
+                "result": 64
+            },
+            {
+                "id": 6,
+                "name": "Калькулятор",
+                "tested": true
+            },
+            {
+                "id": 8,
+                "name": "Перевернуть строку",
+                "sample": "6202 яинавориммаргорп ииголонхет и ыдотеМ"
+            }
+        ],
+        "advanced": [
+            {
+                "id": 4,
+                "name": "График y=x^2 (matplotlib)",
+                "file": "parabola.png"
+            },
+            {
+                "id": 10,
+                "name": "Сериализация в JSON",
+                "status": "active"
+            }
+        ]
+    }
+}
